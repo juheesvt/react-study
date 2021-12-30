@@ -2,7 +2,7 @@
 ## 사용 방법
 #### Project : Weekly To Do List
 - 월요일 자정까지 Weekly To Do List에 시작 날짜와 할 일 포함해서 note 등록 후 issue로 변경
-- milestone 및 asignee 등록
+- milestone 및 assignees 등록
 
 
 #### Issue : Question & Answer, To Do List Management
@@ -13,7 +13,9 @@
 git commit -m "#1 : 로그인 버튼 UI 변경"
 ```
 
-✔️ 참고 ➡️ https://zeddios.tistory.com/1194
+✔️ 참고 
+- https://zeddios.tistory.com/1194
+- https://terry-some.tistory.com/93
 
 ## 규칙
 #### 아래 사항 하나라도 못지키면 상대방한테 흑탄 100개 
