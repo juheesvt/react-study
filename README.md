@@ -8,7 +8,7 @@
 #### Issue : Question & Answer, To Do List Management
 - Question : issue에 quetion 라벨 달기
 - Answer : question issue에 comment
-- To Do List Management : commit message에 To Do List issue 번호 포함
+- To Do List Management : commit message에 To Do List **issue 번호** 포함
 ```shell
 git commit -m "#1 : 로그인 버튼 UI 변경"
 ```
