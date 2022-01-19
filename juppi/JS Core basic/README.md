@@ -2,7 +2,7 @@
 
 [1. 자바스크립트 기본](./javascriptBasic.md)  
 [2. 코드 품질](./codeQuality.md)  
-[3. 객체: 기본](./basicObject.md)
+[3. 객체: 기본](./basicObject.md)  
 4. 자료구조와 자료형  
 5. 함수 심화학습  
 6. 객체 프로퍼티 설정  
